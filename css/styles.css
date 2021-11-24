@@ -610,6 +610,10 @@ progress {
   height: 50%;
 }
 
+.img-fluid-3 {
+  max-width: 45%;
+  height: 45%;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
