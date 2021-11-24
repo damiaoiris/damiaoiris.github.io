@@ -4715,9 +4715,9 @@ textarea.form-control-lg {
 
 .button {
   background-color: #569c8f;
-  border: 2px solid rgb(86, 156, 143);
+  border: 2px solid;
   border-radius: 4px;
-  color: black;
+  color: 6C757D;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
