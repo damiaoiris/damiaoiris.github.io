@@ -4718,9 +4718,8 @@ textarea.form-control-lg {
 }
 
 .button1 {
-  background-color: white;
   border: 2px solid black;
-  border-radius: 0px;
+  background-color: white;
   color: #569c8f;
   padding: 14px 28px;
   text-align: center;
@@ -4730,10 +4729,10 @@ textarea.form-control-lg {
   cursor: pointer;
 }
 
-.button12 {font-size: 14px;
+.default {font-size: 16px;
           font-family: 'Courier New', Courier, monospace;
           border-color: #569c8f}
-.button1:hover {background-color:#569c8f;
+.default:hover {background-color:#569c8f;
                 color: white}
 
 @media (prefers-reduced-motion: reduce) {
