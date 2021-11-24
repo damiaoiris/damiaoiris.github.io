@@ -4715,8 +4715,8 @@ textarea.form-control-lg {
 
 .button1 {
   background-color: #fff;
-  border: 2px solid #569c8f;
-  border-radius: 2px;
+  border: 0px solid #569c8f;
+  border-radius: 0px;
   color: #569c8f;
   padding: 15px 32px;
   text-align: center;
@@ -4727,7 +4727,7 @@ textarea.form-control-lg {
   cursor: pointer;
 }
 
-.button12 {font-size: 10px;
+.button12 {font-size: 8px;
           font-family: 'Courier New', Courier, monospace;}
 .button1:hover {opacity: 1}
 
