@@ -4717,19 +4717,19 @@ textarea.form-control-lg {
   transition: transform 0.2s ease-in-out;
 }
 
-.button1 {
+.button-more {
   border: 2px solid black;
   background-color: white;
   color: #569c8f;
   padding: 14px 28px;
   text-align: center;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
 }
 
-.default {font-size: 16px;
+.default {font-size: 20px;
           font-family: 'Courier New', Courier, monospace;
           border-color: #569c8f}
 .default:hover {background-color:#569c8f;
