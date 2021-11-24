@@ -4713,8 +4713,8 @@ textarea.form-control-lg {
   transition: transform 0.2s ease-in-out;
 }
 
-.button-layout {
-  background-color: white;
+.button {
+  background-color: #569c8f;
   border: 2px solid rgb(86, 156, 143);
   border-radius: 4px;
   color: black;
@@ -4726,6 +4726,11 @@ textarea.form-control-lg {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.button1 {font-size: 10px;
+          font-family: 'Courier New', Courier, monospace;}
+.button1:hover {opacity: 1}
+
 
 @media (prefers-reduced-motion: reduce) {
   .accordion-button::after {
