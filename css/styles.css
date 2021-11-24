@@ -4718,23 +4718,23 @@ textarea.form-control-lg {
 }
 
 .button1 {
-  background-color: #fff;
-  border: 0px solid #569c8f;
+  background-color: white;
+  border: 2px solid black;
   border-radius: 0px;
   color: #569c8f;
-  padding: 15px 32px;
+  padding: 14px 28px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
 }
 
-.button12 {font-size: 8px;
-          font-family: 'Courier New', Courier, monospace;}
-.button1:hover {opacity: 1}
-
+.button12 {font-size: 14px;
+          font-family: 'Courier New', Courier, monospace;
+          border-color: #569c8f}
+.button1:hover {background-color:#569c8f;
+                color: white}
 
 @media (prefers-reduced-motion: reduce) {
   .accordion-button::after {
