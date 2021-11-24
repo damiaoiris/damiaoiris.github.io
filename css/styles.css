@@ -606,8 +606,8 @@ progress {
 }
 
 .img-fluid-2 {
-  max-width: 50%;
-  height: 50%;
+  max-width: 10%;
+  height: 10%;
 }
 
 
@@ -4712,6 +4712,21 @@ textarea.form-control-lg {
   background-size: 1.25rem;
   transition: transform 0.2s ease-in-out;
 }
+
+.button-layout {
+  background-color: white;
+  border: 2px solid rgb(86, 156, 143);
+  border-radius: 4px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .accordion-button::after {
     transition: none;
