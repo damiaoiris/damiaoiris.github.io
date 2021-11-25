@@ -4735,6 +4735,10 @@ textarea.form-control-lg {
 .default:hover {background-color:#569c8f;
                 color: white}
 
+.et_pb_button {display: inline-block;
+               margin: 5px; /* space between buttons */
+              }            
+
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column2 {
