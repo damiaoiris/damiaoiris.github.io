@@ -7480,6 +7480,18 @@ textarea.form-control-lg {
   margin-left: auto !important;
 }
 
+
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+button.margin-right {
+  margin-right: 100px;
+}
 .center-image {
   display: block;
   margin-left: auto;
