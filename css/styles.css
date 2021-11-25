@@ -4744,25 +4744,25 @@ textarea.form-control-lg {
 .column2 {
   float: left;
   width: 50%;
-  padding: 5px;
+  padding: 1px;
 }
 
 .column3 {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 1px;
 }
 
 .column4 {
   float: left;
   width: 25%;
-  padding: 5px;
+  padding: 1px;
 }
 
 .column5 {
   float: left;
   width: 20%;
-  padding: 5px;
+  padding: 1px;
 }
 
 /* Clear floats after image containers */
@@ -11421,8 +11421,8 @@ p.lead {
 .subheading-2 {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
-  font-weight: 400;
-  font-size: 1.5rem;
+  font-weight: 300;
+  font-size: 1.2rem;
 }
 
 .subheading-3 {
