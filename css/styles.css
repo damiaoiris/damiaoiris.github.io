@@ -7801,6 +7801,14 @@ button.margin-right {
   word-break: break-word !important;
 }
 
+.img-pin {
+  float: left;
+  width:  100px;
+  height: 100px;
+  background-size: cover;
+}
+
+
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
