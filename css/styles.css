@@ -4744,7 +4744,7 @@ textarea.form-control-lg {
 .column2 {
   float: left;
   width: 50%;
-  padding: 1px;
+  padding: 0px;
 }
 
 .column3 {
@@ -7803,18 +7803,24 @@ button.margin-right {
 
 .img-pin {
   float: left;
-  width:  120px;
+  width:  100px;
   height: 260px;
   background-size: cover;
 }
 
 .img-pin-2 {
   float: left;
-  width:  120px;
+  width:  100px;
   height: 350px;
   background-size: cover;
 }
 
+.img-gap {
+  float: left;
+  width:  100px;
+  height: 300px;
+  background-size: cover;
+}
 
 /* rtl:end:remove */
 .text-primary {
