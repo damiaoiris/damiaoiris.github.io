@@ -7803,21 +7803,21 @@ button.margin-right {
 
 .img-pin {
   float: left;
-  width:  100px;
-  height: 260px;
+  width:  90px;
+  height: 290px;
   background-size: cover;
 }
 
 .img-pin-2 {
   float: left;
-  width:  100px;
-  height: 350px;
+  width:  90px;
+  height: 400px;
   background-size: cover;
 }
 
 .img-gap {
   float: left;
-  width:  100px;
+  width:  90px;
   height: 300px;
   background-size: cover;
 }
