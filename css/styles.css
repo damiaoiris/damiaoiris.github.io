@@ -7817,15 +7817,22 @@ button.margin-right {
 
 .img-gap {
   float: left;
-  width:  85px;
+  width:  90px;
   height: 300px;
   background-size: cover;
 }
 
 .img-gap-2 {
   float: left;
-  width:  85px;
+  width:  90px;
   height: 500px;
+  background-size: cover;
+}
+
+.img-gap-not {
+  float: left;
+  width:  90px;
+  height: 400px;
   background-size: cover;
 }
 
